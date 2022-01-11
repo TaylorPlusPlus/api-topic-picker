@@ -1,0 +1,5 @@
+Javascript
+Ajax
+Typescript
+Angular
+HTML CSS

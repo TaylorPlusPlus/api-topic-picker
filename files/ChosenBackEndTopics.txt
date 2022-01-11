@@ -1,0 +1,6 @@
+Design Patterns
+SDLC 
+SQL, Data languages			
+Testing
+.NET Fundamentals		
+Entity framework and the ORM

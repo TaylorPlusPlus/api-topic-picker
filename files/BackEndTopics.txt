@@ -1,0 +1,11 @@
+.NET Fundamentals		
+C#
+Design Patterns
+Entity framework and the ORM
+SQL, Data languages			
+MVC
+SDLC 
+SoA
+REST
+Dependency Injection
+Testing
