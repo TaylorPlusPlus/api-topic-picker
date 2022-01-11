@@ -37,7 +37,7 @@ namespace homeProjects.Controllers
         [HttpPost("[action]")]
         public IActionResult PostTopic([FromBody] Topic incomingTopic)
         {
-            System.Console.WriteLine(incomingTopic.Type);
+            System.Console.WriteLine(incomingTopic.Type + " " + incomingTopic.TopicName);
             return Ok();
         }
     }
